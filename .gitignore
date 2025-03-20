@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorios de salida
+dist/
+build/
+
+# Archivos de configuración de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos de TypeScript
+*.tsbuildinfo
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+logs
+*.log
